@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&desc=HELLO!%20🍀soojeong's%20notion🍀&reversal=true&fontSize=110&animatiwinkling&descAlignY=40&color=gradient&customColorList=3&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&desc=HELLO!%20🍀soojeong's%20notion🍀&reversal=true&fontSize=110&animatiwinkling&descAlignY=45&color=gradient&customColorList=3&fontColor=ffffff)
